@@ -1,6 +1,6 @@
-# Hi! My name is Akarshit Gupta
-**Final Year C.S.E student**
+**Hi! My name is Akarshit Gupta**
+Final Year C.S.E student
 
-# Languages I use
+**Languages I use**
 Python, C,C++,SQL
 
